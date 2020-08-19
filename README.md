@@ -1,4 +1,4 @@
 # SiraliBagilListe
- VeriYapilari-SiraliBagilListe
-
-Linked list yapısında araya ekleme yapan (insert) kodun nasıl yazıldığı, bir bağlı listeye verilen elemanları sıralı ekleyen ve dolayısıyla bağlı listenin başına, ortasına veya sonuna ekleme yapabilen fonksiyon.
+ VeriYapilari
+ Bu depo iÃ§erisinde bulunanlar;
+ Ekrandan girdiÄŸiniz veriyi txt dosyasÄ±na aktararak, tekrar Ã§alÄ±ÅŸtÄ±rdÄ±ÄŸÄ±nÄ±zda bu verileri listeye aktararak ekrana yazdÄ±ran program.(ListeUygulamasi)
