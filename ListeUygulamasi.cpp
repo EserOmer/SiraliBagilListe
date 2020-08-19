@@ -166,10 +166,10 @@ int main() {
 	string b, c;
 
 
-	cout << "1- Kayit ekleme" << endl;
-	cout << "2- Kayit silme" << endl;
-	cout << "3- Hafizaya aktarip gez" << endl;
-	cout << "4- Kayit arama" << endl;
+	cout << "1- Kayit ekleme:" << endl;
+	cout << "2- Kayit silme:" << endl;
+	cout << "3- Hafizaya aktarip gez:" << endl;
+	cout << "4- Kayit arama:" << endl;
 
 	int secim;
 	cin >> secim;
